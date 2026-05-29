@@ -1,3 +1,4 @@
+# PLEASE DO NOT CHANGE ANYTHING NOW (May 29, 2026)
 # CDS 301 / 501 Template Website
 
 This is a **template website** for the course **CDS 301 / 501: Scientific Information & Data Visualization** at George Mason University Korea.
